@@ -1,16 +1,29 @@
-.principal{
+.logo{
     background-color: black;
 }
 
-.secundario{
+#link1{
     color: rgb(243, 53, 53);
     font-size: 30px;
     margin-left: 1200px;
 }
 
-.terciario{
+#link2{
     color: rgb(243, 53, 53);
     font-size: 30px;
-    margin-left: 1200px;
+    margin-left: 40px;
+}
 
+#link3{
+    color: rgb(243, 53, 53);
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+nav{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
 }
